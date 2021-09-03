@@ -1,13 +1,13 @@
-headline: The perfect template to showcase your awesome product and service.
+headline: Linked by Ink.
 
-body: Aenean condimentum, lacus sit amet luctus lobortis, dolores et quas molestias excepturi enim tellus ultrices elit, amet consequat enim elit noneas sit amet luctu. Quis nostrum exercitationem ullam corporis suscipit laboriosam.
+body: Serving you high quality tattoos from industry experts. Use ink to express creativity with our bodies.
 
 button1:
-  label: Free Trial
-  to: '/#'
+  label: Schudule Now
+  to: "/#"
 
 button2:
-  label: Learn More
-  to: '/#features'
+  label: Check out our Artist
+  to: "/#features"
 
 image: images/hero-image.png
